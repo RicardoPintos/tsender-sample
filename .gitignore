@@ -49,3 +49,6 @@ node_modules/
 
 # Synpress
 .cache-synpress/
+
+# Github
+.github/workflows/deploy.yml
