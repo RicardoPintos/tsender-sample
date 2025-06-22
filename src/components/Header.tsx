@@ -12,7 +12,7 @@ export default function Header() {
               TSender
             </h1>
             <a
-              href="https://github.com/lokapal-xyz"
+              href="https://github.com/RicardoPintos/tsender-sample"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors duration-200"

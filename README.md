@@ -2,10 +2,13 @@
 
 A 100% client-side UI for the TSender contract. This sample project was made for the Full-Stack Web3 Development Crash Course of Cyfrin Updraft.
 
+Test Website: https://ricardopintos.github.io/tsender-sample/
+
 - [TSender Sample](#tsender-sample)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
     - [Environment Variables](#environment-variables)
+    - [Mock token](#mock-token)
   - [Setup](#setup)
 - [Testing](#testing)
   - [Unit](#unit)
@@ -35,6 +38,10 @@ A 100% client-side UI for the TSender contract. This sample project was made for
 You'll need a `.env.local` the following environment variables:
 
 - `NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID`: Project ID from [reown cloud](https://cloud.reown.com/)
+
+### Mock token
+
+- Mock token address: `0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512`
 
 ## Setup
 
